@@ -1,2 +1,3 @@
 # janus
-My Janus config
+
+My Janus packages.
