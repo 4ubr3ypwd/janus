@@ -1,0 +1,21 @@
+[submodule "auto-pairs"]
+	path = auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
+[submodule "vim-airline"]
+	path = vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "vim-move"]
+	path = vim-move
+	url = https://github.com/matze/vim-move
+[submodule "vim-surround"]
+	path = vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "supertab"]
+	path = supertab
+	url = https://github.com/ervandew/supertab
+[submodule "vim-easygrep"]
+	path = vim-easygrep
+	url = https://github.com/dkprice/vim-easygrep
+[submodule "vim-togglecursor"]
+	path = vim-togglecursor
+	url = https://github.com/jszakmeister/vim-togglecursor
