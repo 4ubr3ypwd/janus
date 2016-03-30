@@ -19,3 +19,6 @@
 [submodule "vim-togglecursor"]
 	path = vim-togglecursor
 	url = https://github.com/jszakmeister/vim-togglecursor
+[submodule "vim-git"]
+	path = vim-git
+	url = https://github.com/tpope/vim-git
